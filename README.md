@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # 🚀 SAN2025
 
 **Bienvenue dans le projet SAN2025** — une initiative personnelle pour partager ma passion et mon quotidien, après une reconversion de douanier à informaticien.
@@ -65,5 +66,3 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:SAN424/SAN2025.git
 git push -u origin main
-
-
