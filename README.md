@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 # 🚀 SAN2025
 
 **Bienvenue dans le projet SAN2025** — une initiative personnelle pour partager ma passion et mon quotidien, après une reconversion de douanier à informaticien.
@@ -66,3 +64,31 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:SAN424/SAN2025.git
 git push -u origin main
+
+
+# SAN2025
+Projet personnel de reconversion professionnelle dans l'informatique.
+Ce dépôt regroupe plusieurs modules techniques : SCCM, BurpSuite, Metasploit, Scripts...
+
+## 🔗 Modules
+
+- [BurpSuite](BurpSuite/README.md) — Notes d’interception et manipulation
+- [Metasploit](Metasploit/README.md) — Scénarios d’exploitation
+- [SCCM](SCCM/README.md) — Analyse du client SCCM
+- [Scripts](Scripts/README.md) — Outils Bash et PowerShell
+
+## 🌍 Engagements & expériences internationales
+
+En tant qu’inspecteur des douanes, j’ai participé à plusieurs conférences internationales :
+- **Istanbul 2013** : Conférence de l’OMD sur la contrefaçon de marque et le piratage
+- **Madrid 2014** : Conférence sur les Opérateurs Économiques Agréés (OEA)
+- **Bruxelles** : Négociation et signature de l’Accord de Partenariat Volontaire (APV/FLEGT) pour la République Centrafricaine, visant à garantir la légalité de l’exploitation et de l’exportation du bois
+
+Ces engagements m’ont sensibilisé aux enjeux de conformité, de traçabilité et de lutte contre la fraude — des principes que je transpose aujourd’hui dans le domaine de la cybersécurité à travers le projet SAN2025.
+
+
+## 🔜 À venir
+
+- Ajout de cas pratiques sur la fraude douanière
+- Intégration de tests automatisés
+- Documentation des scripts PowerShell
